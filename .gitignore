@@ -1,0 +1,6 @@
+readme.txt
+output/
+data/
+train.py
+train_naive.py
+__pycache__
